@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "kanban-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,11 +10,21 @@
     "@types/node": "^16.11.19",
     "@types/react": "^17.0.38",
     "@types/react-dom": "^17.0.11",
+    "apexcharts": "^3.32.1",
     "react": "^17.0.2",
+    "react-apexcharts": "^1.3.9",
+    "react-beautiful-dnd": "^13.1.0",
     "react-dom": "^17.0.2",
+    "react-helmet": "^6.1.0",
+    "react-helmet-async": "^1.2.2",
+    "react-hook-form": "^7.22.5",
+    "react-query": "^3.34.7",
+    "react-router-dom": "^6.2.1",
     "react-scripts": "5.0.0",
+    "recoil": "^0.5.2",
+    "styled-components": "^5.3.3",
     "typescript": "^4.5.4",
-    "web-vitals": "^2.1.3"
+    "web-vitals": "^2.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -39,5 +49,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/react-beautiful-dnd": "^13.1.0",
+    "@types/react-helmet": "^6.1.5",
+    "@types/styled-components": "^5.1.19",
+    "typescript-styled-plugin": "^0.18.2"
   }
 }
