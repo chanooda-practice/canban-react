@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/canban-react/static/js/main.86044194.js",
+    "main.js": "/canban-react/static/js/main.453d15db.js",
     "index.html": "/canban-react/index.html",
-    "main.86044194.js.map": "/canban-react/static/js/main.86044194.js.map"
+    "main.453d15db.js.map": "/canban-react/static/js/main.453d15db.js.map"
   },
   "entrypoints": [
-    "static/js/main.86044194.js"
+    "static/js/main.453d15db.js"
   ]
 }
